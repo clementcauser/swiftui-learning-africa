@@ -46,6 +46,7 @@
 		2226F95C282412B8007EC267 /* VideoPlayerHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2226F95B282412B8007EC267 /* VideoPlayerHelper.swift */; };
 		2226F95E28241603007EC267 /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2226F95D28241603007EC267 /* LocationModel.swift */; };
 		2226F96028241AE2007EC267 /* MapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2226F95F28241AE2007EC267 /* MapAnnotationView.swift */; };
+		2239DB0C2829548C008EF99C /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2239DB0B2829548C008EF99C /* MotionAnimationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -90,6 +91,7 @@
 		2226F95B282412B8007EC267 /* VideoPlayerHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerHelper.swift; sourceTree = "<group>"; };
 		2226F95D28241603007EC267 /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
 		2226F95F28241AE2007EC267 /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
+		2239DB0B2829548C008EF99C /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -199,6 +201,7 @@
 				2226F9562823FF3E007EC267 /* VideoListItemView.swift */,
 				2226F958282411CB007EC267 /* VideoPlayerView.swift */,
 				2226F95F28241AE2007EC267 /* MapAnnotationView.swift */,
+				2239DB0B2829548C008EF99C /* MotionAnimationView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -320,6 +323,7 @@
 				2226F93A2823CDCB007EC267 /* MainView.swift in Sources */,
 				2226F94F2823F854007EC267 /* InsetFactView.swift in Sources */,
 				2226F93D2823CFA3007EC267 /* CoverImageView.swift in Sources */,
+				2239DB0C2829548C008EF99C /* MotionAnimationView.swift in Sources */,
 				2226F9402823D14A007EC267 /* CoverImageModel.swift in Sources */,
 				2226F9492823DB1A007EC267 /* AnimalDetailView.swift in Sources */,
 				2226F9472823D872007EC267 /* AnimalModel.swift in Sources */,
